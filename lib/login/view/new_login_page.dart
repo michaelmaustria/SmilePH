@@ -298,7 +298,6 @@ class _NewLoginPageState extends State<NewLoginPage> implements ILoginView {
     else{
       imageData = null;
     }
-
   }
 
   @override
