@@ -335,10 +335,7 @@ class _NewLoginPageState extends State<NewLoginPage> implements ILoginView {
       _showNotVerifiedDialog(cardNo, message);
     else
       _showAlertDialog(false, message);
-
-
   }
-
 
   @override
   Widget build(BuildContext context) {
